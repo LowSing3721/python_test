@@ -2,7 +2,7 @@
 @File       :   student_manager.py
 @Time       :   2020/8/5 16:30
 @Author     :   Wang
-@Version    :   2.0
+@Version    :   2.01
 @Description:   控制台操作学生信息的CRUD-数据库版
 """
 import pymysql
